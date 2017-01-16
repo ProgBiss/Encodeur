@@ -1,7 +1,7 @@
 # Encodeur
 
-Librairie permettant d'encoder et de décoder des chaines selon divers types d'encodage.
-Créé par Nicolas Bisson
+Librairie permettant d'encoder et de décoder des chaines selon divers types d'encodage. 
+Créé par Nicolas Bisson 
 Le 23 février 2015
 
 INSTALLATION
@@ -22,8 +22,8 @@ entrer les arguments nécessaires au bon fonctionnement.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-Library to encrypt and decrypt string with some encryption methods.
-Created by Nicolas Bisson
+Library to encrypt and decrypt string with some encryption methods. 
+Created by Nicolas Bisson 
 February 23, 2015
 
 INSTALLATION
